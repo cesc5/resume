@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "name": "Francesc Ruiz Gómez",
+    "label": "DevOps Engineer",
+    "picture": "frg.png",
+    "summary": "DevOps Engineer with experience in System Administration & Automation. As a DevOps enthusiast I like to collaborate with teams & break silos.",
+    "website": "https://about.me/francesc.ruiz",
+    "email": "francesc.ruiz.gomez@gmail.com",
+    "phone": "+34 629 71 01 83",
+    "location": {
+      "city": "Barcelona",
+      "postalCode": "08195",
+      "address": "Sant Cugat Del Vallés, Mira-sol",
+      "countryCode": "ES",
+      "region": "Catalonia"
+    },
+    "birthday": "31/05/1990",
+    "profiles": [
+      {
+        "url": "https://github.com/cesc5",
+        "username": "cesc",
+        "network": "github"
+      }
+    ]
+  },
+  "references": [],
+  "awards": [],
+  "education": [
+    {
+      "startDate": "2012",
+      "endDate": "2017",
+      "area": "Computer Engineering. (Incomplete)",
+      "studyType": "University degree",
+      "institution": "UAB/UOC"
+    },
+    {
+      "startDate": "2011",
+      "endDate": "2012",
+      "area": "Applications Development.",
+      "studyType": "CFGS",
+      "institution": "Salesians Sarrià"
+    },
+    {
+      "startDate": "2010",
+      "endDate": "2011",
+      "area": "System Administration.",
+      "studyType": "CFGS",
+      "institution": "Salesians Sarrià"
+    }
+  ],
+  "certification": [
+    {
+      "date": "2020",
+      "name": "Certified Cloud Practitioner",
+      "institution": "AWS"
+    },
+    {
+      "date": "2015",
+      "name": "Programming in C#",
+      "institution": "Microsoft"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": ["Linux Debian", "Windows Server"],
+      "name": "System Administration"
+    },
+    {
+      "keywords": ["MySQL", "MongoDB", "Redis", "ElasticSearch"],
+      "name": "Database Administration"
+    },
+    {
+      "keywords": ["Nginx", "Apache", "Tomcat", "IIS", "LetsEncrypt"],
+      "name": "Web Server Administration"
+    },
+    {
+      "keywords": ["Terraform"],
+      "name": "Infrastructure as Code"
+    },
+    {
+      "keywords": ["AWS", "Azure", "Gcloud"],
+      "name": "Cloud Computing Services"
+    },
+    {
+      "keywords": ["AWS", "Azure", "Gcloud"],
+      "name": "Cloud Computing Services"
+    },
+    {
+      "keywords": ["Ansible"],
+      "name": "Configuration Management"
+    },
+    {
+      "keywords": ["Docker", "Docker Swarm","Kubernetes"],
+      "name": "Configuration Management"
+    },
+    {
+      "keywords": ["Zabbix", "Prometheus","Grafana"],
+      "name": "Monitoring & Visualization"
+    },
+    {
+      "keywords": ["ELK", "Cloudwatch"],
+      "name": "Log Management"
+    },
+    {
+      "keywords": ["ELK"],
+      "name": "Log Management"
+    },
+    {
+      "keywords": ["Azure apim", "WSO2 apim"],
+      "name": "API Management"
+    },
+    {
+      "keywords": ["Gitlab", "Github"],
+      "name": "Version Control System"
+    },
+    {
+      "keywords": ["Bash", "Python", "Powershell"],
+      "name": "Automation & Scripting"
+    },
+    {
+      "keywords": ["Jenkins", "GitlabCI", "Rundeck", "TFS"],
+      "name": "CI/CD"
+    },
+    {
+      "keywords": ["SonarQube"],
+      "name": "Continuous Code Quality"
+    },
+    {
+      "keywords": ["Docker", "Artifactory"],
+      "name": "Artifact Management"
+    }  
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Worked with Postgres, Redis and Dynamodb for storage."
+      ],
+      "summary": "",
+      "website": "https://www.adasasistemas.com",
+      "company": "ADASA Sistemas",
+      "position": "System Administrator",
+      "startDate": "2011",
+      "endDate": "2015"
+    },{
+      "highlights": [
+        "Worked with Postgres, Redis and Dynamodb for storage."
+      ],
+      "summary": "",
+      "website": "https://www.adasasistemas.com",
+      "company": "ADASA Sistemas",
+      "position": "DevOps",
+      "startDate": "2015",
+      "endDate": "2017-02"
+    },
+    {
+      "highlights": [
+        "Worked with Postgres, Redis and Dynamodb for storage."
+      ],
+      "summary": "",
+      "website": "https://www.k-lagan.com",
+      "company": "K-LAGAN",
+      "position": "DevOps Consultant",
+      "startDate": "2017-02",
+      "endDate": "2017-10"
+    },
+    {
+      "highlights": [
+        "Worked with Postgres, Redis and Dynamodb for storage."
+      ],
+      "summary": "",
+      "website": "https://www.credimarket.com",
+      "company": "CREDIMARKET",
+      "position": "SysAdmin & DevOps Engineer",
+      "startDate": "2017-11",
+      "endDate": "2019-12"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B3 Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Trekking"
+    },
+    {
+      "name": "Dogs"
+    }
+  ]
+}
